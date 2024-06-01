@@ -3,7 +3,6 @@ let age =28
 let isLoggedIn=false
 
 
-
 //number==> 2
 //bigint
 //string==>""
