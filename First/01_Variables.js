@@ -9,4 +9,6 @@ let accountState;         //not defined
 var accountPassword="54321"
 accountCity="Indore"
 
+
+
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])  //to print value in table
